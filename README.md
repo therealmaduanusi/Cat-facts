@@ -15,7 +15,7 @@ This script fetches random cat facts from the [Cat Facts API](https://cat-fact.h
     cd your-repository
 
 ## Code Explanation:
-** This JavaScript code snippet demonstrates the usage of the Fetch API to fetch random cat facts from the Cat Facts API asynchronously. It displays a random fact when the page loads and updates the fact each time the button is clicked. **
+**This JavaScript code snippet demonstrates the usage of the Fetch API to fetch random cat facts from the Cat Facts API asynchronously. It displays a random fact when the page loads and updates the fact each time the button is clicked.**
 
 1. index.html: HTML file containing the script tag to include the JavaScript code and the button element to trigger fetching new facts.
 script.js: JavaScript file containing the code to fetch and display cat facts
